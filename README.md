@@ -23,6 +23,8 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE:START -->
+- [(Part-2)Creating an Ubuntu Virtual Machine on Azure](https://bhavukkalra.hashnode.dev/part-2creating-an-ubuntu-virtual-machine-on-azure)
+- [Creating a Windows Virtual Machine on Azure](https://bhavukkalra.hashnode.dev/creating-a-windows-virtual-machine-on-azure)
 <!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
