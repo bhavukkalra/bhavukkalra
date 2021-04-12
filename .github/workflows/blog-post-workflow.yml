@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'bhavukkalra' # Hashnode Username
+          USERNAME: 'godcoder' # Hashnode Username
           COUNT: 5 # MAX Visisble
           STYLE: "list"
         env:
