@@ -22,8 +22,8 @@
 
 
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
