@@ -39,6 +39,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bhavukkalra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40"  alt="bhavukkalra" /></a></p><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavukkalra&show_icons=true&locale=en&layout=compact" alt="bhavukkalra" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavukkalra&theme=algolia&show_icons=true&locale=en&layout=compact" alt="bhavukkalra" />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bhavukkalra&theme=algolia&show_icons=true&locale=en" alt="bhavukkalra" /></p>
