@@ -23,7 +23,6 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE:START -->
-- [Perceptron in Machine Learning](https://bhavukkalra.hashnode.dev/perceptron-in-machine-learning)
 - [CORS errors](https://bhavukkalra.hashnode.dev/cors-errors)
 - [So, What exactly is Babel?](https://bhavukkalra.hashnode.dev/so-what-exactly-is-babel)
 - [(Part-2)Creating an Ubuntu Virtual Machine on Azure](https://bhavukkalra.hashnode.dev/part-2creating-an-ubuntu-virtual-machine-on-azure)
