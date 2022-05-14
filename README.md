@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Azure**
 
-- 👨‍💻 All of my projects are available at [https://bhavukkalra.github.io/my-website/](https://bhavukkalra.github.io/my-website/)
+- 👨‍💻 All of my projects are available at My Website [https://bhavukkalra.github.io/](https://bhavukkalra.github.io/)
 
 - 📝 I regularly write articles on [https://bhavukkalra.hashnode.dev/](https://bhavukkalra.hashnode.dev/)
 
