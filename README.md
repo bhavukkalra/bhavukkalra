@@ -1,6 +1,3 @@
-<img src="Banner_github.png" alt="Girl in a jacket" width= 100%>
-
-
 <h1 align="center">Hi 👋, I'm Bhavuk Kalra</h1>
 <h3 align="center">Researcher and Chess lover</h3>
 
