@@ -15,7 +15,7 @@
 
 
 
-<img align="right" alt="Coding" width="500" src="Cool.gif">
+
 
 
 ## My Latest Blog Posts 👇
