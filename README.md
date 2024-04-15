@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavuk Kalra</h1>
-<h3 align="center">Researcher and Chess lover</h3>
+<h3 align="center">Developer and Writer</h3>
 
 - 🔭 I’m currently working on [Min-Max-TicTacToe](https://github.com/bhavukkalra/TicTacToe_Min_Max)
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://bhavukkalra.hashnode.dev/](https://bhavukkalra.hashnode.dev/)
 
-- 💬 Ask me about **MERN, Reinforcement Learning**
+- 💬 Ask me about **MERN Stack, Web Dev**
 
 - 📫 How to reach me **bhavukkalra1786@gmail.com**
 
