@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavuk Kalra</h1>
 <h3 align="center">Developer and Writer</h3>
 
-- 🔭 I’m currently working on [Min-Max-TicTacToe](https://github.com/bhavukkalra/TicTacToe_Min_Max)
+- 🔭 I’m currently working on [Resume Refine](https://www.resumerefine.app)
 
 - 🌱 I’m currently learning **ReactJS, Azure**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://bhavukkalra.hashnode.dev/](https://bhavukkalra.hashnode.dev/)
 
-- 💬 Ask me about **MERN Stack, Web Dev**
+- 💬 Ask me about **Web Dev, Scaling Apps, DB Migrations, Optimal Sharding strategies, Low latency Architectures**
 
 - 📫 How to reach me **bhavukkalra1786@gmail.com**
 
